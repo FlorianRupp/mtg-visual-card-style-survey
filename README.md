@@ -4,7 +4,7 @@ This repository provides additional data for the paper _Deceptive Game Design? I
 
 Content:
 * Prompts for LLMs and Text2Image models.
-* Generated images
+* Generated images and cards.
 * Survey data
 
 Authors: Leonie Kallabis, Timo Bertram, and Florian Rupp
