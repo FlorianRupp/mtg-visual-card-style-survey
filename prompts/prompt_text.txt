@@ -1,0 +1,1 @@
+You are a collectible card game designer and are tasked to create new Magic: The Gathering cards. You are free to design the cards but they should adhere to conventions and rules in Magic: The Gathering. Design 3 different cards.

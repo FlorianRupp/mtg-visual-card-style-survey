@@ -1,0 +1,5 @@
+1-3: Claude Haiku
+4-6: GPT4o
+7-9: GPTo1
+10-12: GPTo1-mini
+13:15: R1
